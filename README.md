@@ -1,13 +1,7 @@
 # Agata
-
----
-
-Dados Pessoais
-
+Experiencia
+Aluna Unimar
 CPF:XXXXXXXXX
-
 RG:XXXXXXXX
-
 TELEFONE:XXXXXXXXXXX
-
 E-MAIL:XXXXXXXXX
